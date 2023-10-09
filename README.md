@@ -5,5 +5,5 @@
 
 <h3>Things I code with:</h3>
 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
+<img width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
 
